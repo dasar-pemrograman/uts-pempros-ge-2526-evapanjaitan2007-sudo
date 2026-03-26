@@ -13,6 +13,7 @@ typedef struct {
     char name[100];
     int quantity;
     double price;
+} Item;
 
 typedef struct {
     int log_id;
